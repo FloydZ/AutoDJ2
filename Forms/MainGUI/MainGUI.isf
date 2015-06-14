@@ -1,0 +1,13 @@
+#cs
+[gui]
+title=MainGUI
+breite=350
+hoehe=350
+style=-1
+exstyle=-1
+exstyle=-1
+bgcolour=0xF0F0F0
+bgimage=none
+handle=MainGUI
+#ce
+
